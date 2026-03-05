@@ -1,4 +1,6 @@
-## Hi there 👋
+## README
+
+한림대학교 재학중인 학생입니다. 
 
 <!--
 **chgh04/chgh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
