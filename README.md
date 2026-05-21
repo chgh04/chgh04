@@ -83,6 +83,7 @@ Hi there! I'm chgh04!
       <img width="320" height="360" alt="Image" src="https://github.com/user-attachments/assets/b5d54131-2c90-4c30-b322-053ddd68cc75" />
     </td>
     <td align="center" width="25%">
+      <img width="440" height="320" alt="Image" src="https://github.com/user-attachments/assets/9ea702a3-ff0f-42dd-9eff-a249d03565ef" />
     </td>
     <td align="center" width="25%">
       <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4cc73ad5-f6c9-4e78-bd47-12e1db59bea3" />
