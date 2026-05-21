@@ -66,16 +66,29 @@ Hi there! I'm chgh04!
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="캐릭터_애니메이션.gif" width="80%"/><br><sub>Player Idle Anims</sub>
+      <img width="440" height="284" alt="Image" src="https://github.com/user-attachments/assets/b37aee31-b52f-4767-95e0-f05fb9d3cbd4" />
     </td>
     <td align="center" width="25%">
-      <img src="몬스터_도트.gif" width="80%"/><br><sub>Enemy Sprite</sub>
+      <img width="440" height="304" alt="Image" src="https://github.com/user-attachments/assets/47354c35-f8f0-4951-8613-eb205b6ead0f" />
     </td>
     <td align="center" width="25%">
-      <img src="이펙트_도트.gif" width="80%"/><br><sub>VFX Frame</sub>
+      <img width="436" height="412" alt="Image" src="https://github.com/user-attachments/assets/8894a06c-56f2-4a0d-83f7-1bbbfe8aa764" />
     </td>
     <td align="center" width="25%">
-      <img src="아이템_도트.png" width="80%"/><br><sub>Item Icons</sub>
+      <img width="300" height="320" alt="Image" src="https://github.com/user-attachments/assets/90e71427-4473-4dd7-9fc1-1c73cb1ef5a6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img width="320" height="360" alt="Image" src="https://github.com/user-attachments/assets/b5d54131-2c90-4c30-b322-053ddd68cc75" />
+    </td>
+    <td align="center" width="25%">
+    </td>
+    <td align="center" width="25%">
+      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4cc73ad5-f6c9-4e78-bd47-12e1db59bea3" />
+    </td>
+    <td align="center" width="25%">
+      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/37e13579-0e8d-44de-9aa4-06b1be1798ab" />
     </td>
   </tr>
 </table>
